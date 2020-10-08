@@ -9,3 +9,6 @@ When designing the template, the following should be considered:
 • Provide a basic search option for visitors to your website.
 • Demonstrate the use of internal links by linking a resource (e.g., image, content) on your site to another resource or webpage.
 • Add at least two images to your website.
+
+
+Completed Assignment-1 code is available on the Assignment-1 folder of master branch
