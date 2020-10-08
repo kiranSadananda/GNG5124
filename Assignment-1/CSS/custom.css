@@ -1,0 +1,46 @@
+
+.fa-facebook-f{
+    color: #fff;
+}
+
+.fa-twitter {
+    color: #fff;
+}
+
+.mainInfo{
+    height:40px;
+    background-color:#5c6670;
+}
+
+.socialNav {
+    float: right;
+}
+
+.socialNav li a {
+    color: #ffffffe6;
+    text-decoration: none;
+}
+
+.socialNav li {
+    padding: .5rem 0.5rem;
+}
+
+.contactTop,
+.copyRight {
+    padding: 10px 0px 0px 0px;
+    color: #ffffffe6;
+}
+
+
+.bg-first-color {
+	background-color: #343a40;
+}
+
+.logo{
+    font-weight: bold;
+    color: #fff!important;
+}
+
+#carousel-home .carousel-inner img{
+    height: 500px;
+}
